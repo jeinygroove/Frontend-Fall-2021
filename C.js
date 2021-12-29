@@ -1,3 +1,4 @@
+// https://contest.yandex.ru/contest/29554/problems/C/
 'use strict';
 
 const DAY_MINUTES = 60 * 24;

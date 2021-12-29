@@ -1,3 +1,4 @@
+// https://contest.yandex.ru/contest/29554/problems/B/
 'use strict'
 
 /**

@@ -1,3 +1,4 @@
+// https://contest.yandex.ru/contest/29554/problems/F/
 'use strict';
 
 const fetch = require('node-fetch');
